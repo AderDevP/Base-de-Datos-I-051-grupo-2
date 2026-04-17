@@ -1,7 +1,7 @@
 ﻿-- Scripts de Modificación de la Base de Datos - SGBD PostgreSQL        
 -- Todas las instrucciones se deben realizar en secuencia sin errores
 -- Probar los scripts en detalle
--- Modificación de la Base de Datos
+-- Modificación de la Base de Datos.
 
 
 1. DATOS SEMI-ESTRUCTURADOS PARA IOT (SENSORES)
