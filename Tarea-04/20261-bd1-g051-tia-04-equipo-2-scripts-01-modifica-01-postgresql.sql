@@ -1,7 +1,7 @@
 ﻿--
 -- Scripts de Modificación de la Base de Datos - SGBD PostgreSQL
 -- Todas las instrucciones en secuencia
---
+--.
 
 
 -- =====================================================
