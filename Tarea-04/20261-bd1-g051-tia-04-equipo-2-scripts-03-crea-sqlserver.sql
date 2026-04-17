@@ -1,7 +1,7 @@
 --
 -- Scripts de Creación de la Base de Datos - MS SQL Server
 --
--- Todas las instrucciones se deben ejecutar en secuencia sin errores.
+-- Todas las instrucciones se deben ejecutar en secuencia sin errores..
 -- Se han ajustado los nombres a SINGULAR y se respeta el Diccionario de Datos.
 --
 
