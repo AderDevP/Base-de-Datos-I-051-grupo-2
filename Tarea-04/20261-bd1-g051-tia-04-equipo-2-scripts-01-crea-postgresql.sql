@@ -1,6 +1,6 @@
 ﻿-- Script de Creación de la Base de Datos - PostgreSQL
 
-
+.
 -- TABLAS INDEPENDIENTES
 CREATE TABLE roles (
     id_rol SERIAL PRIMARY KEY,
