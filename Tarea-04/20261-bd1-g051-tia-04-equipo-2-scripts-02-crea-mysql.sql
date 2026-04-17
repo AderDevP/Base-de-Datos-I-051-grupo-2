@@ -137,7 +137,7 @@ CREATE TABLE usuario_apiario (
 );
 
 
--- 4. TABLAS DEPENDIENTES 3
+-- 4. TABLAS DEPENDIENTES 3.
 
 -- Tabla 6: dato_sensor (Depende de sensor_iot)
 CREATE TABLE dato_sensor (
